@@ -3,15 +3,15 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    height: 100vh;
 }
 
 .container{
-    /*display: flex;*/
-    /*justify-content: center;*/
-    /*align-items: center;*/
-    height: 264px;
-    width: 640px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 781px;
+    width: 360px;
     background-color: #fff;
     text-align: center;
     font-family: 'Sora', sans-serif;
@@ -24,23 +24,23 @@ body{
 }
 .container p{
     font-size: 14px;
-    margin-right: 450px;
+    /*margin-right: 450px;*/
 }
 
 .exit{
     height: 48px;
-    width: 608px;
+    width: 328px;
     font-size: 14px;
     border-radius: 4px;
     border: 0.5px solid #AEAEAE;
 }
 .next{
     height: 48px;
-    width: 384px;
+    width: 328px;
     background-color: #232529;
     color: #fff;
     text-align: center;
-    margin-top: 16px;
+    margin-top: 24px;
     font-size: 20px;
     border-radius: 4px;
 }
