@@ -45,6 +45,11 @@ body{
     border-radius: 4px;
 }
 
+.link{
+    color: #ffffff;
+    text-decoration: none;
+}
+
 /*ВТОРОЙ БЛОК*/
 .container-first{
     display: flex;
