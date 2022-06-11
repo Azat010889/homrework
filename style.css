@@ -210,3 +210,69 @@ body{
     border-radius: 4px;
 
 /*Четвертый блок*/
+
+.block_4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /*gap: 8px;*/
+    width: 360px;
+    height: 1135px;
+    background-color: #fff;
+    background-color: darkred;
+}
+.block_4 h1{
+    margin-right: 300px;
+    font-family: 'Sora',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 24px;
+}
+.paragraph{
+    margin-right: 490px;
+    margin-bottom: 16px;
+    margin-top: 0;
+    font-family: 'Sora',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+.paragraph{
+    margin-right: 460px;
+    margin-bottom: 16px;
+    margin-top: 0;
+    font-family: 'Sora',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+.sections{
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+}
+.border-200{
+    width: 192px;
+    height: 42px;
+    border-radius: 8px;
+    margin-bottom: 16px;
+    border: 0.5px solid #AEAEAE;
+}
+
+
+.next-second{
+    height: 48px;
+    width: 384px;
+    background-color: #232529;
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 20px;
+    border-radius: 4px;
