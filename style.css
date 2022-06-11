@@ -250,6 +250,7 @@ body{
     font-weight: 400;
     font-size: 14px;
     line-height: 18px;
+    background-color: darkred;
 }
 .sections{
     text-align: center;
@@ -258,21 +259,21 @@ body{
 }
 
 }
-.border-200{
-    width: 192px;
-    height: 42px;
-    border-radius: 8px;
-    margin-bottom: 16px;
-    border: 0.5px solid #AEAEAE;
-}
+/*.border-200{*/
+/*    width: 192px;*/
+/*    height: 42px;*/
+/*    border-radius: 8px;*/
+/*    margin-bottom: 16px;*/
+/*    border: 0.5px solid #AEAEAE;*/
+/*}*/
 
 
-.next-second{
-    height: 48px;
-    width: 384px;
-    background-color: #232529;
-    color: #fff;
-    text-align: center;
-    margin-top: 40px;
-    font-size: 20px;
-    border-radius: 4px;
+/*.next-second{*/
+/*    height: 48px;*/
+/*    width: 384px;*/
+/*    background-color: #232529;*/
+/*    color: #fff;*/
+/*    text-align: center;*/
+/*    margin-top: 40px;*/
+/*    font-size: 20px;*/
+/*    border-radius: 4px;*/
