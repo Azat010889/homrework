@@ -135,18 +135,11 @@ body{
     font-weight: 600;
     font-size: 18px;
     line-height: 23px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     height: 40px;
     width: 328px;
 }
 .p1{
-    /*margin-bottom: 10px;*/
-    /*font-family: 'Sora',sans-serif;*/
-    /*font-style: normal;*/
-    /*font-weight: 400;*/
-    /*font-size: 14px;*/
-    /*line-height: 18px;*/
-
     font-family: 'Sora', sans-serif;
     font-style: normal;
     font-weight: 600;
@@ -155,6 +148,7 @@ body{
     display: flex;
     align-items: center;
     width: 328px;
+    margin-bottom: 5px;
 }
 .p2{
     /*margin-right: 460px;*/
@@ -211,6 +205,6 @@ body{
     background-color: #232529;
     color: #fff;
     text-align: center;
-    margin-top: 40px;
+    margin-top: 24px;
     font-size: 20px;
     border-radius: 4px;
