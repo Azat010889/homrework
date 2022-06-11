@@ -138,6 +138,7 @@ body{
     margin-bottom: 10px;
     height: 40px;
     width: 328px;
+
 }
 .p1{
     font-family: 'Sora', sans-serif;
@@ -199,7 +200,7 @@ body{
     margin-right: 200px;
 }
 
-.next-second{
+.next-second {
     height: 42px;
     width: 328px;
     background-color: #232529;
@@ -208,72 +209,53 @@ body{
     margin-top: 24px;
     font-size: 20px;
     border-radius: 4px;
+}
 
-/*Четвертый блок*/
+
 
 .block_4{
+    background-color: red;
+    height: 1135px;
+    width: 360px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     /*gap: 8px;*/
-    width: 360px;
-    height: 1135px;
-    background-color: #fff;
-    background-color: darkred;
+    overflow: scroll;
 }
-.block_4 h1{
-    margin-right: 300px;
+
+.capital h1{
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+}
+.capital h2{
     font-family: 'Sora',sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 16px;
     line-height: 20px;
-    margin-bottom: 24px;
+    display: flex;
+    align-items: center;
 }
-.paragraph{
-    margin-right: 490px;
-    margin-bottom: 16px;
-    margin-top: 0;
-    font-family: 'Sora',sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
+.capital{
+    margin-top: 60px;
 }
-.paragraph{
-    margin-right: 460px;
-    margin-bottom: 16px;
-    margin-top: 0;
-    font-family: 'Sora',sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 14px;
-    line-height: 18px;
-    background-color: darkred;
-}
-.sections{
-    text-align: center;
+.chapter{
     margin-bottom: 0;
-    margin-top: 0;
 }
-
+.paragraph{
+    margin-bottom: 0;
 }
-/*.border-200{*/
-/*    width: 192px;*/
-/*    height: 42px;*/
-/*    border-radius: 8px;*/
-/*    margin-bottom: 16px;*/
-/*    border: 0.5px solid #AEAEAE;*/
-/*}*/
-
-
-/*.next-second{*/
-/*    height: 48px;*/
-/*    width: 384px;*/
-/*    background-color: #232529;*/
-/*    color: #fff;*/
-/*    text-align: center;*/
-/*    margin-top: 40px;*/
-/*    font-size: 20px;*/
-/*    border-radius: 4px;*/
+.next_select h1{
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+}
