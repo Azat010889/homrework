@@ -219,9 +219,9 @@ body{
 
 
 .block_4{
-    margin-top: 96px;
+    margin-top: 150px;
     background-color: #ffffff;
-    height: 1200px;
+    height: 1500px;
     width: 370px;
     display: flex;
     flex-direction: column;
@@ -251,7 +251,7 @@ body{
     margin-bottom: 5px;
 }
 .capital{
-    /*margin-top: 150px;*/
+    margin-top: 150px;
 }
 .chapter{
     margin-bottom: 0;
