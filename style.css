@@ -192,8 +192,13 @@ body{
     width: 326px;
     height: 42px;
     border-radius: 8px;
-    margin-bottom: 0px;
+    margin-bottom: 0;
     border: 0.5px solid #AEAEAE;
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
 }
 
 .border-last{
@@ -214,15 +219,15 @@ body{
 
 
 .block_4{
-    background-color: red;
-    height: 1135px;
-    width: 360px;
+    margin-top: 150px;
+    background-color: #ffffff;
+    height: 1500px;
+    width: 370px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    /*gap: 8px;*/
-    overflow: scroll;
+    gap: 5px;
 }
 
 .capital h1{
@@ -233,6 +238,7 @@ body{
     line-height: 23px;
     display: flex;
     align-items: center;
+    /*margin-top: 100px;*/
 }
 .capital h2{
     font-family: 'Sora',sans-serif;
@@ -242,9 +248,10 @@ body{
     line-height: 20px;
     display: flex;
     align-items: center;
+    margin-bottom: 5px;
 }
 .capital{
-    margin-top: 60px;
+    margin-top: 150px;
 }
 .chapter{
     margin-bottom: 0;
