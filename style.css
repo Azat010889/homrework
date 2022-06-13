@@ -175,7 +175,7 @@ body{
     margin-right: 200px;
 }
 
-.next-second{
+.next-second {
     height: 48px;
     width: 384px;
     background-color: #232529;
@@ -184,6 +184,7 @@ body{
     margin-top: 40px;
     font-size: 20px;
     border-radius: 4px;
+}
 
 .content_last{
     display: flex;
@@ -272,7 +273,7 @@ body{
     color: #AEAEAE;
 }
 
-.next-second_by {
+.next-second_by{
     height: 48px;
     width: 384px;
     background-color: #232529;
