@@ -185,7 +185,7 @@ body{
     font-size: 20px;
     border-radius: 4px;
 
-.block_three{
+.content{
     display: flex;
     flex-direction: column;
     justify-content: center;
