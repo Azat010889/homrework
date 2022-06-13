@@ -218,4 +218,51 @@ body{
 
 
 
+.block_4{
+    margin-top: 150px;
+    background-color: #ffffff;
+    height: 1500px;
+    width: 370px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+}
+
+.capital h1{
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    display: flex;
+    align-items: center;
+    /*margin-top: 100px;*/
+}
+.capital h2{
+    font-family: 'Sora',sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 5px;
+}
+.capital{
+    margin-top: 150px;
+}
+.chapter{
+    margin-bottom: 0;
+}
+.paragraph{
+    margin-bottom: 0;
+}
+.next_select h1{
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
 }
