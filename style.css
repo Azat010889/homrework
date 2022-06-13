@@ -185,7 +185,7 @@ body{
     font-size: 20px;
     border-radius: 4px;
 
-.content{
+.content_last{
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -272,7 +272,7 @@ body{
     color: #AEAEAE;
 }
 
-.next-second_by{
+.next-second_by {
     height: 48px;
     width: 384px;
     background-color: #232529;
@@ -281,3 +281,4 @@ body{
     margin-top: 30px;
     font-size: 20px;
     border-radius: 4px;
+}
