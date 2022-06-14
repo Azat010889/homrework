@@ -173,20 +173,21 @@ body{
 
 }
 .name{
-    margin-left: 90px;
+    margin-left: 95px;
+    /*background-color: grey;*/
 }
 .name_name{
     margin-right: 300px
 }
 .name_first{
-    margin-left: 2%;
+    margin-left: 3%;
     /*background-color: #A9A9A9;*/
 }
 .name_second{
     margin-left: 50px;
 }
 .name_date{
-    margin-left: 30px;
+    margin-left: 40px;
 }
 .border-200{
     width: 326px;
